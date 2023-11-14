@@ -1,3 +1,3 @@
 # UDACITY - FEND
 
-A repository that hosts all projects that are a part of Frontend Web Developer Nanodegree course 
+A repository that hosts all projects that are a part of Frontend Web Developer Nanodegree Program. 
